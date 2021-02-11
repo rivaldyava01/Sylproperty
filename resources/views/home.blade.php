@@ -15,14 +15,14 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <a class="navbar-brand mr-auto" href="/home">
-                <img src='img/logo R-bulat.png' height="30" width="41">
+                {{-- <img src='img/logo R-bulat.png' height="30" width="41"> --}}
                 Syl Property
             </a>
             <div class="collapse navbar-collapse" id="Navbar">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item active"><a class="nav-link" href="#">Home</a></li>
-                    <li class="nav-item active"><a class="nav-link" href="#">Rent</a></li>
-                    <li class="nav-item active"><a class="nav-link" href="#">Sale</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Rent</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Sale</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">Contact Us</a></li>
                 </ul>
